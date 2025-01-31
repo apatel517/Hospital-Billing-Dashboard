@@ -6,7 +6,8 @@ This **Power BI dashboard** provides insights into **hospital billing and claims
 ## 📸 Dashboard Preview  
 Here’s a preview of the **Hospital Billing Dashboard**:  
 
-![Hospital-Billing-Dashboard](Screenshot 2025-01-30 194439.png)
+![Hospital Billing Dashboard](Screenshot%202025-01-30%20194439.png)
+
 
 ## 🎯 Key Features  
 ✔ **Claims Analysis** – Tracks total claims, paid claims, and denials.  
