@@ -2,6 +2,7 @@
 
 ## 📌 Overview  
 This **Power BI dashboard** provides insights into **hospital billing and claims management**, helping stakeholders monitor **revenue, denied claims, and expense trends**.  
+## Note: The data used in this dashboard is synthetic and was generated using Python libraries like Pandas and Faker to simulate real-world scenarios.
 
 ## 📸 Dashboard Preview  
 Here’s a preview of the **Hospital Billing Dashboard**:  
