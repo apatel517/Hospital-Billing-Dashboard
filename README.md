@@ -12,8 +12,7 @@ Here’s a preview of the **Hospital Billing Dashboard**:
 ## 🎯 Key Features  
 ✔ **Claims Analysis** – Tracks total claims, paid claims, and denials.  
 ✔ **Revenue Insights** – Visualizes total revenue collected.  
-✔ **Denial Rate** – Helps identify common denial reasons.  
-✔ **Expense Breakdown** – Displays department-wise expenses.  
+✔ **Denial Rate** – Helps identify common denial reasons.   
 ✔ **Late Payments & Trends** – Monitors delayed payments and their impact.  
 
 ## 📊 KPIs Tracked  
@@ -22,7 +21,7 @@ Here’s a preview of the **Hospital Billing Dashboard**:
 - **Denial Rate (%)**  
 - **Average Claim Processing Time**  
 - **Top Payer Contribution**  
-- **Net Income & Profit Margin**  
+- 
 
 ## 🛠️ Tools & Technologies Used  
 - **Power BI** – For interactive visualizations  
